@@ -55,17 +55,6 @@ Our group took part in a hands-on PC assembly session guided by the laboratory t
 
 ---
 
-## 🧾 Repository Guide
-
-| File | Description |
-|---|---|
-| [`docs/assembly-guide.md`](docs/assembly-guide.md) | Step-by-step desktop PC assembly guide |
-| [`docs/components-reference.md`](docs/components-reference.md) | Important component names, functions, and identification tips |
-| [`docs/quiz-revision.md`](docs/quiz-revision.md) | Quick revision notes and practice quiz with answers |
-| [`assets/`](assets/) | Photos from the Group 4 practical |
-
----
-
 ## 🦺 Important Safety Notes
 
 - Switch off and unplug the PC before installing or removing components.
