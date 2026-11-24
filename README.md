@@ -37,7 +37,7 @@ Our group took part in a hands-on PC assembly session guided by the laboratory t
 
 ### Group 4
 
-![Group 4 team photo](assets/group-4-team-photo.jpg)
+![Group 4 team photo](assets/photo_2026-11-24_19-22-01.jpg)
 
 ### 💻 Inspecting the desktop PC hardware
 
