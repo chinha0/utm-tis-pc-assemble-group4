@@ -41,7 +41,7 @@ Our group took part in a hands-on PC assembly session guided by the laboratory t
 
 ### 💻 Inspecting the desktop PC hardware
 
-![Group 4 inspecting an open desktop PC](assets/pc-hardware-inspection.jpg)
+![Group 4 inspecting an open desktop PC](photo_2026-11-24_19-23-02.jpg)
 
 ---
 
